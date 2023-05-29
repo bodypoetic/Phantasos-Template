@@ -14,3 +14,5 @@ TimeKeeper - ProudCookie - https://assetstore.unity.com/packages/tools/input-man
 Tween Animations Made Easy - GOGO GAGA - https://assetstore.unity.com/packages/tools/animation/tween-animations-made-easy-visual-editor-for-leantween-228711
 
 LeanTween - Dented Pixel - https://assetstore.unity.com/packages/tools/animation/leantween-3595
+
+Thanks are due to Daniel Cox and Trevor Mock for their tutorials on working with ink - if you are unsure how the ink integration in this template works, I recommend starting there.
