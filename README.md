@@ -1,6 +1,6 @@
 # Phantasos-Template
 
-![image](https://github.com/bodypoetic/Phantasos-Template/assets/134900102/7b77c7a5-72b3-467a-8e5d-8b48c31de0ab)
+![image](https://github.com/bodypoetic/Phantasos-Template/assets/134900102/8867698e-d79b-401b-96e1-be5db428802d)
 
 The Phantasos Template is a collection of code designed for use with Unity and the ink narrative scripting language (https://www.inklestudios.com/ink/) to enable the creation of 'fake desktop' stories.
 I share it here with the intention that other artists, programmers, and digital writers will be able to make use of it. If you do, please reach out - I would love to see what you make!
